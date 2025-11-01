@@ -2,6 +2,12 @@
 
 https://docs.aws.amazon.com/hands-on/latest/build-react-app-amplify-graphql/build-react-app-amplify-graphql.html
 
+# Configuring IAM Identity Center authentication with the AWS CLI
+
+https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sso.html?utm_source
+
+[RunServer] - npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
